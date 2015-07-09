@@ -2,5 +2,6 @@ This is a file created on my git repo 1.
 this is ragini's line
 This file is created in git repo2.
 Adding a new line
+this is anil's line on repo 1
 fifth line on repo 2
 adding a sixth line
